@@ -1,8 +1,13 @@
 # OpenClaw Quantitative Analysis System
 
-一个基于 OpenClaw 架构构建的量化交易分析系统原型。该项目展示了如何利用人工智能代理（Agents）进行多维度的量化数据处理、策略回测及架构可视化。
+一个基于 OpenClaw 架构构建 of 量化交易分析系统原型。该项目展示了如何利用人工智能代理（Agents）进行多维度的量化数据处理、策略回测及架构可视化。
 
-![System Demo](./demo.png)
+## 系统预览
+
+![Step 1](./docs/images/step1.png)
+![Step 2](./docs/images/step2.png)
+![Step 3](./docs/images/step3.png)
+![Step 4](./docs/images/step4.png)
 
 ## 核心特性
 
